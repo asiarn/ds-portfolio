@@ -4,7 +4,7 @@ This project builds a binary classification model to assess loan applicants and 
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset is sourced from Kaggle:
 > [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
@@ -15,7 +15,7 @@ Each row represents a loan applicant. The target column `loan_status` indicates:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Build a classifier to distinguish between good and bad applicants
 - Prioritize **recall** to reduce false negatives (missed risky applicants)
@@ -23,7 +23,7 @@ Each row represents a loan applicant. The target column `loan_status` indicates:
 
 ---
 
-## 🛠 Tools & Techniques
+## Tools & Techniques
 
 - **Python, Pandas, Scikit-Learn**
 - **Faker** for synthetic data validation
