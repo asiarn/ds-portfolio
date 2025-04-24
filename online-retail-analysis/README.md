@@ -26,10 +26,10 @@ This project explores **customer behavior and sales patterns** using an online r
 
 ## Dashboard Features
 
-- **Summary View** (Sheets 1–4): Snapshot of core metrics
-- **Customer Behavior** (Sheets 6, 8, 9): Repeating vs new customer segmentation
-- **Product Performance** (Sheets 10-A & 10-B): Purchase pattern comparisons by customer type
-- **Growth Analysis** (Sheets 5 & 6): Revenue and customer trends month-over-month
+- **Summary View** : Snapshot of core metrics
+- **Customer Behavior** : Repeating vs new customer segmentation
+- **Product Performance** : Purchase pattern comparisons by customer type
+- **Growth Analysis** : Revenue and customer trends month-over-month
 
 ---
 
@@ -40,13 +40,5 @@ This project explores **customer behavior and sales patterns** using an online r
 - **Date-based aggregations** for monthly trend analysis
 - **Data wrangling**: Cleaned missing values, filtered canceled transactions
 
----
-
-## Folder Guide
-
-| Folder         | Description                |
-|----------------|----------------------------|
-| `deliverables/`| Analysis and report files  |
-| `data/`        | Project's datasets         |
 
 
