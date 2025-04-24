@@ -4,7 +4,7 @@ This project designs and simulates a relational database system for managing mul
 
 ---
 
-## 📁 Dataset & Schema
+## Dataset & Schema
 
 - Simulated data for:
   - Users (names, contacts, areas)
@@ -17,7 +17,7 @@ All tables are designed with normalized structure and proper key relationships.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Model a relational system for library operations
 - Generate realistic sample data using `Faker`
@@ -25,7 +25,7 @@ All tables are designed with normalized structure and proper key relationships.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Python** (data generation using `Faker`, `Tabulate`)
 - **PostgreSQL** (schema design, DDL)
