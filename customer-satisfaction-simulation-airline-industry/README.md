@@ -4,7 +4,7 @@ This project analyzes airline customer satisfaction data to build a predictive c
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Identify key service features that influence customer satisfaction
 - Build an interpretable model to predict satisfaction
